@@ -1,0 +1,6 @@
+valid_email = 'a.matasov@hotmail.com'
+valid_email1 = 'seremei@mail.ru'
+valid_password = 'gddmatan16'
+valid_password1 = '7654321'
+invalid_email = 'seremei123@mail.ru'
+invalid_password = '1234567'
